@@ -1,0 +1,11 @@
+.number-grid {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 1px;
+}
+
+.coin-icon {
+    color: gold;
+    margin: 5px;
+    font-size: 1.5rem;
+}
